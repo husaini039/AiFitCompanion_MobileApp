@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "497883778378",
+    "project_id": "fit-ai-companion",
+    "storage_bucket": "fit-ai-companion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497883778378:android:b354aa1dd7ddd6766a85b3",
+        "android_client_info": {
+          "package_name": "com.example.pose_detection_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497883778378-1qegufjbe34l0pntmtviodk536cief0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pose_detection_realtime",
+            "certificate_hash": "cf12a3d667b36b7ae3e351447c0654f7e366df12"
+          }
+        },
+        {
+          "client_id": "497883778378-abdrr9vic5t7fmsm2406qoa0boo4174k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-FQEso0IzRQpPC1bSPfUthBBGh0dRNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497883778378-abdrr9vic5t7fmsm2406qoa0boo4174k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
